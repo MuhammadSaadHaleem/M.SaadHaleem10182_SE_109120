@@ -1,1 +1,6 @@
-# M.SaadHaleem10182_SE_109120
+|GROUP PARTNERS NAME    |                 IDS|
+|:-----:                |--------------------|
+|M.Saad Haleem          |               10182|
+|Sameed Ahmed           |               10121|
+|Hafiz Hibbar           |                    |
+
